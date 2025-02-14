@@ -1,5 +1,4 @@
-# JogoAdivinha-o
-Tela Gênio é um jogo interativo de adivinhação desenvolvido em Java utilizando a biblioteca Swing .
+# Adivinha-o
 Este é um simples jogo de adivinhação desenvolvido em Java com a biblioteca Swing. O programa escolhe um número aleatório entre 1 e 5, e o usuário deve tentar adivinhar qual é esse número.
 
 ## Tecnologias Utilizadas
